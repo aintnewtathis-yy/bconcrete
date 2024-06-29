@@ -86,9 +86,9 @@
 
 <Hero />
 <Categories />
-<Banner title="Проведите эту зиму в уюте и комфорте c коллецией BazhenovConcrete" subtitle="Столешница Wegner CH07 Shell" url="#url" bgImage="/banner.png" />
+<Banner title="Проведите эту зиму в уюте и комфорте c коллецией BazhenovConcrete" subtitle="Столешница Wegner CH07 Shell" url="#url" bgImage="/banner.webp" />
 <MiniCatalog largeProduct=true products={products} minititle="Новинки" />
 <MiniCatalog largeProduct=false products={products2} minititle="Актуальное" />
-<Banner title="Проведите эту зиму в уюте и комфорте c коллецией BazhenovConcrete" subtitle="Столешница Wegner CH07 Shell" url="#url" bgImage="/banner1.png" />
+<Banner title="Проведите эту зиму в уюте и комфорте c коллецией BazhenovConcrete" subtitle="Столешница Wegner CH07 Shell" url="#url" bgImage="/banner1.webp" />
 <WideVariety />
 <NewsRow />
