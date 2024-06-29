@@ -27,27 +27,27 @@
 				class="news-row-slider-wrap"
 			>
 				<SplideSlide class="news-row-slider-element">
-					<img src="/media.png" alt="" />
+					<img src="/media.webp" alt="" />
 					<h5>Проведите эту зиму в уюте и комфорте вместе c коллецией Hygge</h5>
 					<p>05 декабря 2023</p>
 				</SplideSlide>
 				<SplideSlide class="news-row-slider-element">
-					<img src="/media.png" alt="" />
+					<img src="/media.webp" alt="" />
 					<h5>Проведите эту зиму в уюте и комфорте вместе c коллецией Hygge</h5>
 					<p>05 декабря 2023</p>
 				</SplideSlide>
 				<SplideSlide class="news-row-slider-element">
-					<img src="/media.png" alt="" />
+					<img src="/media.webp" alt="" />
 					<h5>Проведите эту зиму в уюте и комфорте вместе c коллецией Hygge</h5>
 					<p>05 декабря 2023</p>
 				</SplideSlide>
 				<SplideSlide class="news-row-slider-element">
-					<img src="/media.png" alt="" />
+					<img src="/media.webp" alt="" />
 					<h5>Проведите эту зиму в уюте и комфорте вместе c коллецией Hygge</h5>
 					<p>05 декабря 2023</p>
 				</SplideSlide>
 				<SplideSlide class="news-row-slider-element">
-					<img src="/media.png" alt="" />
+					<img src="/media.webp" alt="" />
 					<h5>Проведите эту зиму в уюте и комфорте вместе c коллецией Hygge</h5>
 					<p>05 декабря 2023</p>
 				</SplideSlide>

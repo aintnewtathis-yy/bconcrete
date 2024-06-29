@@ -6,25 +6,25 @@
 			pretitle: 'Столешница Wegner CH07 Shell',
 			title: 'Проведите эту зиму в уюте и комфорте c коллецией Hygge',
 			url: '#url',
-			image: '/hero-bg.png'
+			image: '/hero-bg.webp'
 		},
 		{
 			pretitle: 'Столешница Wegner CH07 Shell 2',
 			title: 'Проведите эту зиму в уюте и комфорте c коллецией Hygge',
 			url: '#url',
-			image: '/hero-bg2.png'
+			image: '/hero-bg2.webp'
 		},
 		{
 			pretitle: 'Столешница Wegner CH07 Shell 3',
 			title: 'Проведите эту зиму в уюте и комфорте c коллецией Hygge',
 			url: '#url',
-			image: '/hero-bg.png'
+			image: '/hero-bg.webp'
 		},
 		{
 			pretitle: 'Столешница Wegner CH07 Shell 4',
 			title: 'Проведите эту зиму в уюте и комфорте c коллецией Hygge',
 			url: '#url',
-			image: '/hero-bg2.png'
+			image: '/hero-bg2.webp'
 		}
 	];
 
