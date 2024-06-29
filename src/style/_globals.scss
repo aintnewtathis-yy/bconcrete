@@ -31,7 +31,7 @@ html {
 
 	&:has(body.locked) {
 		@include above-tablet {
-			body{
+			body {
 				padding-right: var(--scroll-bar);
 			}
 		}
@@ -65,13 +65,13 @@ body {
 	text-align: center;
 	color: #fff;
 
-	@include fluid-text(18,16);
+	@include fluid-text(18, 16);
 
 	@include hover {
 		color: #ffffffac;
 	}
 }
-.btn-gray{
+.btn-gray {
 	border: 1px solid var(--gray-bg);
 	background-color: var(--gray-bg);
 	color: var(--text-color);
@@ -105,6 +105,27 @@ body {
 	letter-spacing: -1px;
 }
 
-.splide__list{
+.splide__list {
 	transition: none;
+}
+
+html.lenis,
+html.lenis body {
+	height: auto;
+}
+
+.lenis.lenis-smooth {
+	scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+	overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+	overflow: hidden;
+}
+
+.lenis.lenis-smooth iframe {
+	pointer-events: none;
 }
